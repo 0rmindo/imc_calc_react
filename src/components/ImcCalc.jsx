@@ -1,5 +1,5 @@
 import './ImcCalc.css';
-import Button from './Button';
+import Button from './Button.jsx';
 
 import { useState } from 'react';
 
